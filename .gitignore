@@ -1,0 +1,16 @@
+.streamlit/secrets.toml
+
+# Środowiska wirtualne
+venv/
+.venv/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# VSCode / GitHub Codespaces
+.vscode/
